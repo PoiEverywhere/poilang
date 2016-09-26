@@ -66,3 +66,34 @@ No.|Japanese/English|Source
 116|ぽーい！提督さん、ついに3周年っぽい！すごいっぽい、やるっぽい！ぽいぽいぽ～い！<br>Po~i! Admiral, It's finally the third anniversary poi! It's awesome poi! Way to go poi! poi, poi, poooi!|Third Anniversary 2016
 118|夏が終わったぽい～秋が来るぽい～ぽい~ぽい~ぽい!<br>Summer is over poi! Autumn is coming poi! poi, poi, poi!|Fall 2016
 117|う～ん、雨の日は出不精なってしまいがちだけど、でも外に出かけるっぽい！ぽーい♪<br>Hmm... rainy days tend to keep one at home but... still, it feels like I can go out now. Poi~|Rainy Season 2016
+
+### Animation
+No.|Japanese|Source
+:---:|:---:|:---:
+200|あなたが特型駆逐艦の一番艦，なんだか地味っぽい。|Episode 1 04:53
+201|だって，私の引き出しにもう入らないっぽい。|Episode 1 05:15
+202|また始まった，睦月ちゃん細かすぎっぽい。|Episode 1 05:28
+203|相変わらず夜戦バカっぽい。|Episode 1 06:12
+204|ここが教室っぽい。|Episode 1 07:52
+205|一回は何もしないうちに，先輩たちが倒して終わっちゃったっぽいしね。|Episode 1 08:22
+206|一航戦の先輩たちの演習っぽい。|Episode 1 08:47
+207|やばいっぽい。|Episode 1 10:01
+208|赤城先輩 かっこいいっぽいもんね。|Episode 1 11:01
+209|二人でいる時は声かけないほうがいいっぽいよ。|Episode 1 11:41
+210|どこか調子悪いっぽい？。|Episode 1 16:53
+211|実戦経験がないっぽい。|Episode 1 17:05
+212|出撃させてもらえなかったっぽい？|Episode 1 17:13
+213|いい加減っぽい。|Episode 1 17:38
+214|見て こんなにいるっぽい。|Episode 1 18:43
+215|ウソっぽい。|Episode 1 22:20
+216|事件っぽい？|Episode 1 24:25
+
+### Song
+I just collect the solo part of Yūdachi.=w=
+
+No.|Japanese|Source
+:---:|:---:|:---:
+300|大丈夫っぽい?|Bright Shower Days
+301|空は夕立ぽーい，これから。|Bright Shower Days
+302|ぽーい，ぽいぽい!|Bright Shower Days
+303|海は凪いだっぽーい，それから。|Bright Shower Days
