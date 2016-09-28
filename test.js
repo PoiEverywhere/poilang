@@ -1,2 +1,2 @@
 var poilang = require('./poilang')
-poilang.random()
+poilang.detail("test")

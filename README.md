@@ -64,8 +64,8 @@ No.|Japanese/English|Source
 114|もう一年も終わりっぽい、なんだか速いっぽい、来年も夕立～頑張るっぽい！<br>This year has already ended-poi. Somehow it came fast-poi. Yuudachi will also do her best next year-poi!|End of Year 2015
 115|春は気持ちいっぽい、外に出かけたいっぽい、気持ちがわくわくするっぽい！<br>Spring feels good-poi! I want to go outside-poi! I'm feeling all excited-poi!|Spring 2016
 116|ぽーい！提督さん、ついに3周年っぽい！すごいっぽい、やるっぽい！ぽいぽいぽ～い！<br>Po~i! Admiral, It's finally the third anniversary poi! It's awesome poi! Way to go poi! poi, poi, poooi!|Third Anniversary 2016
-118|夏が終わったぽい～秋が来るぽい～ぽい~ぽい~ぽい!<br>Summer is over poi! Autumn is coming poi! poi, poi, poi!|Fall 2016
-117|う～ん、雨の日は出不精なってしまいがちだけど、でも外に出かけるっぽい！ぽーい♪<br>Hmm... rainy days tend to keep one at home but... still, it feels like I can go out now. Poi~|Rainy Season 2016
+117|夏が終わったぽい～秋が来るぽい～ぽい~ぽい~ぽい!<br>Summer is over poi! Autumn is coming poi! poi, poi, poi!|Fall 2016
+118|う～ん、雨の日は出不精なってしまいがちだけど、でも外に出かけるっぽい！ぽーい♪<br>Hmm... rainy days tend to keep one at home but... still, it feels like I can go out now. Poi~|Rainy Season 2016
 
 ### Animation
 No.|Japanese|Source

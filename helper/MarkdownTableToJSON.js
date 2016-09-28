@@ -1,4 +1,4 @@
-fs = require('fs')
+var fs = require('fs')
 fs.readFile('source.md', 'utf8', (err,data) => {
   var json = '['
 		if (err) return console.log(err)
