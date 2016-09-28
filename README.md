@@ -9,7 +9,7 @@ Well, for now, I have just collect the sayings in the game mentioning above. But
 No.|Japanese/English|Source
 :---:|:---:|:---:
 000|こんにちは、白露型駆逐艦「夕立」よ。よろしくね！<br>Hi, I'm Yuudachi, a Shiratsuyu-Class destroyer. Nice to meet you!|Introduction
-001|白露型駆逐艦の４番艦、夕立です。第三次ソロモン海戦では、けっこう頑張ったっぽい？でも、何気に「アイアンボトム・サウンド」って、ホントに怖い言葉よね？<br>I'm Yuudachi, the fourth ship of the Shiratsuyu class.I worked really hard during the Third Battle of the Solomons, didn't I poi?By the way, why am I so scared by the term "Ironbottom Sound?"|Library Intro
+001|白露型駆逐艦の４番艦、夕立です。第三次ソロモン海戦では、けっこう頑張ったっぽい？でも、何気に「アイアンボトム・サウンド」って、ホントに怖い言葉よね？<br>I'm Yuudachi, the fourth ship of the Shiratsuyu class.I worked really hard during the Third Battle of the Solomons, didn't I poi?By the way, why am I so scared by the term 'Ironbottom Sound?'|Library Intro
 002|お呼びっぽい？何ですか？<br>Did you call poi? What is it?|Secretary[0]
 003|提督さん、ご用事はなぁに？<br>What is it that you need, Admiral?|Secretary[1]
 004|ふ～ん…何それ？新しい遊びっぽい～？<br>Hmm? What is it? Some kind of new game poi?|Secretary[2]
