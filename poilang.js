@@ -1,10 +1,12 @@
 var fs = require('fs')
-var content = fs.readFileSync('json/totally.json')
-var json = JSON.parse(content)
-var i
+  , content = fs.readFileSync('json/all.json')
+  , json = JSON.parse(content)
+  , i
+  , isChinese = false
+  , isEnglish = false
 
 module.exports.random = () => {
-  return console.log(json[Math.floor(Math.random() * json.length) - 1].j)
+  return console.log(json[Math.floor(Math.random() * json.length) - 1].l[isEnglish ? 1 : (isChinese? 2 : 0)])
 }
 
 module.exports.detail = (index) => {
@@ -13,7 +15,7 @@ module.exports.detail = (index) => {
   if (index < 100) {
     i = index
   } else {
-    switch (index.toString().charAt(0)) {
+    switch (index.charAt(0)) {
       case '1':
         i = index % 100 + 35
         break
@@ -28,6 +30,24 @@ module.exports.detail = (index) => {
     }
   }
   if (i > json.length) return console.error('Out Of Range!')
-  console.log('---Poilang---' + '\n' + '\n' + 'Index:' + json[i].i + '\n' + 'Japnese:' + json[i].j + '\n' +'Source:' + json[i].s)
+  console.log('---Poilang---' + '\n' + 'Index:' + json[i].i + '\n' + 'Japnese:' + json[i].j[0] + '\n' +'Source:' + json[i].s)
 }
 
+module.exports.switch = (mode) => {
+  if (!mode || typeof mode != 'string') return console.error('Invalid')
+  switch (mode.toUpperCase()) {
+    // case 'CH':
+    //   isChinese = true
+    //   isEnglish = false
+    //   break
+    case 'EN':
+      isEnglish = true
+      isChinese = false
+      break
+    case 'JP':
+      isChinese = isEnglish = false
+      break
+    default:
+      return console.error('Invalid')
+  }
+}
