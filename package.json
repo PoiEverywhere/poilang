@@ -1,0 +1,26 @@
+{
+  "name": "poilang",
+  "version": "0.1.0",
+  "description": "A collection of Yūdachi's sayings.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoiEverywhere/poilang.git"
+  },
+  "keywords": [
+    "Kancolle",
+    "poi"
+  ],
+  "author": "PoiScript",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoiEverywhere/poilang/issues"
+  },
+  "homepage": "https://github.com/PoiEverywhere/poilang#readme"
+}
