@@ -1,11 +1,7 @@
-# poilang
-A collection of Yūdachi(poi)'s sayings.
-## What is Poilang?
-Poilang (a word invented from "poi language") is aim to collect the sayings of Yūdachi (a charter of Kancolle based on a Japanese destroyer). 0w0
-## What does Poilnag includes?
-Well, for now, I have just collect the sayings in the game mentioning above. But in the future, I will add the sayings form animation. 0.0
-## Poilang in game
-### Quotes
+# Poiquote
+Poiquote is an online open-content compendium of Yūdachi's quotations.
+## I.Game
+### 1.Quotes
 No.|Japanese/English|Source
 :---:|:---:|:---:
 000|こんにちは、白露型駆逐艦「夕立」よ。よろしくね！<br>Hi, I'm Yuudachi, a Shiratsuyu-Class destroyer. Nice to meet you!|Introduction
@@ -43,8 +39,7 @@ No.|Japanese/English|Source
 032|も、も～ばかぁ～！これじゃあ戦えないっぽい！？<br>R-really, you idiot~! I can't fight on like this poi!|Moderate/Heavy Damage
 033|もしかして…沈んじゃうっぽい…？<br>Don't tell me... I'm sinking poi?|Sunk
 034|吉川艦長…また…会えるか…な<br>Captain Kikkawa... I can... see you again now... right?|Sunk
-
-### Seasonal Quotes
+### ii.Seasonal Quotes
 No.|Japanese/English|Source
 :---:|:---:|:---:
 100|お正月っぽーい！夕立も晴れ着を着るっぽい。これで戦闘は…できるっぽい！<br>Looks like its the new year! Looks like Yuudachi will be wearing her best clothes! Looks like...I can fight in these clothes!|New Year 2015-2016
@@ -66,8 +61,7 @@ No.|Japanese/English|Source
 116|ぽーい！提督さん、ついに3周年っぽい！すごいっぽい、やるっぽい！ぽいぽいぽ～い！<br>Po~i! Admiral, It's finally the third anniversary poi! It's awesome poi! Way to go poi! poi, poi, poooi!|Third Anniversary 2016
 117|夏が終わったぽい～秋が来るぽい～ぽい~ぽい~ぽい!<br>Summer is over poi! Autumn is coming poi! poi, poi, poi!|Fall 2016
 118|う～ん、雨の日は出不精なってしまいがちだけど、でも外に出かけるっぽい！ぽーい♪<br>Hmm... rainy days tend to keep one at home but... still, it feels like I can go out now. Poi~|Rainy Season 2016
-
-### Animation
+## II.Animation
 No.|Japanese|Source
 :---:|:---:|:---:
 200|あなたが特型駆逐艦の一番艦，なんだか地味っぽい。|Episode 1 04:53
@@ -87,10 +81,7 @@ No.|Japanese|Source
 214|見て こんなにいるっぽい。|Episode 1 18:43
 215|ウソっぽい。|Episode 1 22:20
 216|事件っぽい？|Episode 1 24:25
-
-### Song
-I just collect the solo part of Yūdachi.=w=
-
+## III.Song
 No.|Japanese|Source
 :---:|:---:|:---:
 300|大丈夫っぽい?|Bright Shower Days
